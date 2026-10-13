@@ -1,0 +1,8 @@
+{
+  "name": "Remix QuickBooks Online MCP Server \u0026 Hub",
+  "description": "Enterprise Model Context Protocol (MCP) server for QuickBooks Online with 120 accounting tools, multi-company isolation, remote /mcp endpoint, and financial intelligence engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
